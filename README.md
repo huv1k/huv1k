@@ -10,3 +10,4 @@ Links:
 
 - [Twitter](https://twitter.com/huv1k)
 - [Website](https://huvik.dev/)
+- [Speaking](https://github.com/huv1k/huv1k/tree/master/speaking)
